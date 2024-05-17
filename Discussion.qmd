@@ -1,0 +1,44 @@
+---
+title: "Discussion"
+format: html
+editor: visual
+  html_document: 
+  toc: true
+  toc_depth: 4
+  theme: bootstrap
+  highlight: breezedark
+---
+
+# Discussion
+
+Figure 1 illustrates the relationship between bin quality and completeness for microbial genomes obtained from soil samples at the Santa Rita Experimental Range (SRER). Our analysis reveals a positive correlation between bin quality and completeness, indicating that high-quality bins tend to exhibit greater completeness in terms of genomic content.
+
+Figure 2 explores the relationship between the total number of bases in microbial genomes and their completeness. We observe a notable variability in bin completeness across genomes of different sizes. While larger genomes may contain more genetic information, our analysis suggests that genome completeness is not solely determined by genome size. Other factors such as bin contamination or quality may also influence genome completeness, highlighting the complexity of metagenomic data interpretation.
+
+Figure 3 presents the phylogenetic distribution of microbial genomes recovered from SRER soil samples. The circular phylogenetic tree reveals the taxonomic diversity of Archaeal taxa present in the soil microbiome. By overlaying metadata such as bin completeness and total number of bases, we gain insights in the phylogenetic distribution patterns of high-quality microbial genomes within the Archaeal lineage. This phylogenetic perspective enhances our understanding of microbial community structure and evolutionary relationships in the SRER ecosystem.
+
+Figures 4 through 7 delve deeper into the phylogenetic analysis of Archaeal lineages identified in SRER soil samples. Through combination of tree visualization techniques, we elucidate the evolutionary relationships among Archaeal taxa and highlight key clades of interest. These clades represent genetically distinct groups within the Archaeal domain and may hold implications for understanding the ecological roles and adaptive strategies of Archaea in desert ecosystems.
+
+Figure 8 presents a phylogenetic tree depiciting the evolutionary relationships among Archaeal taxa identified in SRER soil samples. By overlaying metadata on bin completeness, we gain insights into the distribution of high-quality microbial genomes within the Archaeal lineage. The color gradient indicate varying levels of bin completeness, with warmer colors representing more complete genomes. This figure highlights the taxonomic diversity and genomic characteristics of Archaeal taxa in the SRER soil microbiome. It reveals clusters of closesly related genomes with similar completness levels, suggesting conserved genomic features within specific phylogenetic groups. Moreover, the phlogenetic distribution of genomes provides clues to the ecological roles and evolutionary relationships of Archaeal taxa in desert ecosystems.
+
+Figure 9 complements the phylogenetic analysis by integrating genomic features, environmental chemistry data, and bin completeness information. The circular phylogenetic layout allows for a comprehensive visualization of microbial genomes alongside metadata on bin completeness, total number of bases, and environmental chemistry variables. The color and size of the points represents bin completeness and total number of bases, respectively, providing a visual representation of genomic characteristics within the Archaeal lineage. Additionally, the incorporation of environmental chemistry data enables exploration of potential relationships between microbial genomic features and soil chemistry parameters.
+
+Figure 10 illustrates the relationship between gene count and bin contamination in NEON MAGs, revealing a positive correlation where bins with higher gene counts tend to exhibit increased contamination.
+
+Figure 11 and 16 present circular phylogenetic tress of Archaeal taxa from NEON metagenomes, overlaid with metadata on ecosystem subtype and total number of bases. These figures highlight the taxonomic diversity within the Archaea and suggest potential associations between specific lineages and ecosystem subtypes, which could indicate ecological adaptations.
+
+Figure 12 enhances the phylogenetic analysis by incorporating panels for bin completeness and bin contamination alongside the tree. This figure demonstrates how these quality metrics vary among different phylogenetic groups, with points colored by ecosystem subtype.
+
+Figure 13 and 14 display circular phylogenetic trees with tip labels and points colored by class and shaped by assembly type. These visualizations emphasize the diversity within Archaeal classes and highlight differences in genome assembly types across the phylogenetic tree.
+
+Figure 16 resents a phylogenetic tree with tips labeled and points colored by ecosystem subtype, highlighting the ecological diversity of the sampled Archaea. The linear layout and color coding facilitate the identification of specific lineages associated with particular ecosystems, offering insights into the ecological niches and adaptations of these microorganisms within their respective environments.
+
+Figure 17 and 18 further integrate phylogenetic data with genomic and environmental metadata. Both figures use a circular tree layout and include layers for bin completeness, total number of bases, and assembly type. These figures illustrate complex relationships between phylogenetic positions, genomic features, and ecological contexts, suggesting potential interactions between genome characteristics and environmental factors.
+
+Figure 19 shows a phylogenetic tree of Archaea with tip labels, allowing for a straightforward visualization of the evolutionary relationships among the taxa. The extended layout facilitates the examination of specific lineages and their evolutionary contexts within the broader Archaeal domain, serving as a foundational reference for interpreting the ecological and genomic data presented in other figures.
+
+Figure 20 depicts the counts of different phyla present in the Santa Rita Experimental Range (SRER) soil samples, highlighting the distribution and relative abundance of various microbial groups. This bar chart provides a clear overview of the microbial community composition at the phylum level, serving as a baseline for understanding the diversity and ecological significance of these groups in the SRER ecosystem.
+
+Figure 21 illustrates the relationship between the total number of bases and phylum in the SRER soil samples. This scatter plot highlights the variability in genome sizes across different phyla, suggesting differences in genomic content and complexity that may correlate with their ecological roles and adaptive strategies in the desert environment.
+
+Figure 22 presents a boxplot of soil temperature across different site IDs, providing insights into the environmental conditions of the sampling locations. By visualizing soil temperature variation, this figure helps contextualize the microbial and genomic data, offering a perspective on how temperature may influence microbial community composition and genome characteristics in the SRER soil samples.
