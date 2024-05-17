@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+title: "Final Class Project"
+  navbar:
+  left:
+    - href: index.Rmd
+      text: Home
+    - Discussion.qmd
+      text: Discussion
+      
+format:
+  html:
+    theme: bootstrap
+    css: style. css
+    toc: true
+    
+editor: visual
