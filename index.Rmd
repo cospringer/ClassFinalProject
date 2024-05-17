@@ -1,0 +1,30 @@
+---
+title: "Index"
+output: html_document
+date: "2024-05-13"
+---
+project:
+  type: website
+  output-dir: docs
+  
+website:
+title: "Final Class Project"
+  navbar:
+  left:
+    - href: index.Rmd
+      text: Home
+    - Discussions.qmd
+      text: Discussion 
+  
+      
+format:
+  html:
+    theme: bootstrap
+    css: style. css
+    toc: true
+    
+editor: visual
+
+![Final Project](Final-Project.html)
+
+# test-project
